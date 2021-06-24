@@ -1,0 +1,8 @@
+{
+  "addonid": "marginnote.extension.flomo",
+  "author": "extrastu",
+  "title": "flomo",
+  "version": "0.0.3",
+  "marginnote_version_min": "3.6.11",
+  "cert_key": "6f6c718a544e2df65270cec35faf6035"
+}
