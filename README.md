@@ -19,3 +19,7 @@
 -   点击笔记同步到flomo编辑器
 -   划线同步到flomo编辑器
 -   调整插件位置
+
+## 文档地址
+
+[http://docs.test.marginnote.cn/guide/](http://docs.test.marginnote.cn/guide/)
